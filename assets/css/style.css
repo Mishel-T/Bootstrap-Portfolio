@@ -215,4 +215,9 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+  .btn-primary {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+  }
   
